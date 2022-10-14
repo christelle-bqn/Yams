@@ -25,7 +25,7 @@ export const DiceContainer = styled.div`
   align-items: center;
   border-style: solid;
   border-width: 1px;
-  border-color: #24252a;
+  border-color: #70727b;
   border-radius: 10px;
   height: 50px;
   width: 50px;

@@ -84,6 +84,7 @@ export function Yams() {
           <p>
             Choisissez un nombre de lancers puis cliquez sur le bouton "LANCER"
           </p>
+          <p>Gagner des Bitcoins en faisant des YAMS (3 dés de 6)</p>
           <p>À vous de jouer !</p>
         </>
       )}
