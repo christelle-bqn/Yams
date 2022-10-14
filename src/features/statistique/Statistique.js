@@ -13,8 +13,8 @@ const Statistique = () => {
   let nb5 = 0;
   let nb6 = 0;
 
-  dices.map((roll) => {
-    roll.map((dice) => {
+  dices.forEach((roll) => {
+    roll.forEach((dice) => {
       switch (dice) {
         case 1:
           nb1++;

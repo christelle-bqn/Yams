@@ -36,8 +36,6 @@ export function Yams() {
     dispatch(rollDices());
   };
 
-  console.log(dices);
-
   return (
     <YamsContainer>
       <YamsInfos>

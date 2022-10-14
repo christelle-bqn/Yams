@@ -22,6 +22,9 @@ export const Dices = ({ dices }) => {
             {dice.map((value, index) => {
               if (typeof value === "number")
                 return <Dice key={index} value={value} color={color} />;
+              else {
+                return null;
+              }
             })}
           </DicesRow>
         );

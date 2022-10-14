@@ -1,6 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
-import { Counter } from "./features/counter/Counter";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Yams } from "./features/yams/Yams";
 import Statistique from "./features/statistique/Statistique";

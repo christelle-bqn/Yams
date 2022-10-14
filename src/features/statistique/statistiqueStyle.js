@@ -19,8 +19,7 @@ export const Cell = styled.p`
   color: white;
 
   &:hover {
-    color: #121212;
-    background-color: white;
+    background-color: grey;
   }
 
   & > span:first-child {
